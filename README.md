@@ -25,5 +25,4 @@
 - тренажер слепой 10-пальцевой печати: https://klava.org/delta/#eng_code_go
 - курс по Golang от преподавателя технопарка: https://stepik.org/course/187490/info
 - курс по Linux: https://stepik.org/course/73/syllabus
-![image](https://github.com/user-attachments/assets/a9ed292a-fd8d-4839-ba9e-3e9298fec0d8)
 
