@@ -16,3 +16,14 @@
 # РК
 1. -
 2. -
+# Материалы
+Курсы, которые помогут вам сделать первые 6 лабораторные:
+1. курс по Git: https://learngitbranching.js.org/?locale=ru_RU
+2. курс по HTML+CSS+JavaScript: https://stepik.org/course/82108/info
+3. курс по Golang: https://stepik.org/course/54403/info
+Для общего развития:
+- тренажер слепой 10-пальцевой печати: https://klava.org/delta/#eng_code_go
+- курс по Golang от преподавателя технопарка: https://stepik.org/course/187490/info
+- курс по Linux: https://stepik.org/course/73/syllabus
+![image](https://github.com/user-attachments/assets/a9ed292a-fd8d-4839-ba9e-3e9298fec0d8)
+
