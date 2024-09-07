@@ -3,7 +3,7 @@
 # Лабораторные
 1. https://github.com/ValeryBMSTU/web-1
 2. https://github.com/ValeryBMSTU/web-2
-3. <закрыто>
+3. https://github.com/ValeryBMSTU/web-3
 4. <закрыто>
 5. <закрыто>
 6. <закрыто>
