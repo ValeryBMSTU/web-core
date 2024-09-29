@@ -1,12 +1,12 @@
 # Языки интернет-программирования
 Репозиторий для публикации лекций и ссылок на задания по лабораторным/РК
 # Лабораторные
-1. https://github.com/ValeryBMSTU/web-1
-2. https://github.com/ValeryBMSTU/web-2
-3. https://github.com/ValeryBMSTU/web-3
-4. https://github.com/ValeryBMSTU/web-4
-5. https://github.com/ValeryBMSTU/web-5
-6. <закрыто>
+1. [Git & GitHub](https://github.com/ValeryBMSTU/web-1)
+2. [HTML & CSS](https://github.com/ValeryBMSTU/web-2)
+3. [Golang](https://github.com/ValeryBMSTU/web-3)
+4. [JavaScript](https://github.com/ValeryBMSTU/web-4)
+5. [Асинхронное программирование на Golang](https://github.com/ValeryBMSTU/web-5)
+6. [Back-End разработка на Golang](https://github.com/ValeryBMSTU/web-6)
 7. <закрыто>
 8. <закрыто>
 9. <закрыто>
@@ -14,7 +14,7 @@
 11. <закрыто>
 12. <закрыто>
 # РК
-1. <закрыто>
+1. [Подготовка к РК1 + билеты](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 2. <закрыто>
 # Материалы
 Курсы, которые помогут вам сделать первые 6 лабораторные:
