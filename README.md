@@ -1,5 +1,7 @@
 # Языки интернет-программирования
 Репозиторий для публикации лекций и ссылок на задания по лабораторным/РК
+# Текущая успеваемость
+[Таблица с баллами и зачтенными лабораторными работами](https://docs.google.com/spreadsheets/d/1yq4Il4FEEb56BE6lCFqe185eTo_LNX0wSaxnB0qO9q4/edit?usp=sharing)
 # Лабораторные
 1. [Git & GitHub](https://github.com/ValeryBMSTU/web-1)
 2. [HTML & CSS](https://github.com/ValeryBMSTU/web-2)
