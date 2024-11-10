@@ -9,8 +9,8 @@
 4. [JavaScript](https://github.com/ValeryBMSTU/web-4)
 5. [Асинхронное программирование на Golang](https://github.com/ValeryBMSTU/web-5)
 6. [Back-End разработка на Golang](https://github.com/ValeryBMSTU/web-6)
-7. <закрыто>
-8. <закрыто>
+7. [Front-End разработка на JavaScript](https://github.com/ValeryBMSTU/web-7)
+8. [Golang & PostgreSQL](https://github.com/ValeryBMSTU/web-8)
 9. <закрыто>
 10. <закрыто>
 11. <закрыто>
