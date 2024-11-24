@@ -12,7 +12,7 @@
 7. [Front-End разработка на JavaScript](https://github.com/ValeryBMSTU/web-7)
 8. [Golang & PostgreSQL](https://github.com/ValeryBMSTU/web-8)
 9. [Golang & Echo](https://github.com/ValeryBMSTU/web-9)
-10. <закрыто>
+10. [Golang & Clean Architecture](https://github.com/ValeryBMSTU/web-10)
 11. <закрыто>
 12. <закрыто>
 # РК
