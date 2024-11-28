@@ -13,7 +13,7 @@
 8. [Golang & PostgreSQL](https://github.com/ValeryBMSTU/web-8)
 9. [Golang & Echo](https://github.com/ValeryBMSTU/web-9)
 10. [Golang & Clean Architecture](https://github.com/ValeryBMSTU/web-10)
-11. <закрыто>
+11. [Golang & JWT](https://github.com/ValeryBMSTU/web-11)
 12. <закрыто>
 # РК
 1. [Шаблон для написания РК1](https://github.com/ValeryBMSTU/web-rk1)
