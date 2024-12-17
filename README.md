@@ -14,7 +14,7 @@
 9. [Golang & Echo](https://github.com/ValeryBMSTU/web-9)
 10. [Golang & Clean Architecture](https://github.com/ValeryBMSTU/web-10)
 11. [Golang & JWT](https://github.com/ValeryBMSTU/web-11)
-12. <закрыто>
+12. [ОС](https://docs.google.com/forms/d/1pWlku-Ywcy0EaKid3GFB4JqhfW0YjzTkUuZrPKCQLlk/edit)
 # РК
 1. [Шаблон для написания РК1](https://github.com/ValeryBMSTU/web-rk1)
 2. [Шаблон для написания РК2](https://github.com/ValeryBMSTU/web-rk2)
